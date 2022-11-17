@@ -1,0 +1,79 @@
+/***********************
+color codes are 
+    #FFEFD6 for site background
+    #E97777 for h1, h2, p elements
+    *******************/
+
+
+body{
+
+    background-color: #FFEFD6;
+}
+.A-Short-Poem{
+    color: #E97777;
+    font-family: cursive, "Arial Black", Helvetica, sans-serif;
+    font-size: 200%;
+    text-align: center;
+
+}
+
+.KEN{
+
+    color: #E97777;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 150%;
+    text-align: center;
+}
+
+.The-Bakening{
+
+    color: #E97777;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 500%;
+    text-align: center;
+}
+
+.poemline1{
+    color: #E97777;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 100%;
+    text-align: center;
+
+}
+
+.poemline2{
+
+    color: #E97777;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 100%;
+    text-align: center;
+
+}
+.poemline3{
+
+    color: #E97777;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 100%;
+    text-align: center;
+}
+.strawberry-cake{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+h3{
+    color: #E97777;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 150%;
+    text-align: center;
+}
+form{
+    color: #E97777;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 150%;
+    text-align: center;
+
+}
